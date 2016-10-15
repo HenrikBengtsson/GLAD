@@ -1,0 +1,7 @@
+Package: GLAD
+Version: 9.9.9
+Authors@R: c(person("Henrik", "Bengtsson", role="cre", email="henrikb@braju.com"))
+Title: Fake version of GLAD
+Description: Just a fake stub of the GLAD package.
+License: GPL (>= 3)
+RoxygenNote: 5.0.1
